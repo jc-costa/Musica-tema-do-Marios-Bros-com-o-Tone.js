@@ -29,7 +29,7 @@ vamos precisar, digite no terminal o comando npm install -g parcel-bundler;
 Para instalar o Babel, que é um compilador de JavaScript que também vamos precisar,
 digite no terminal npm install --save-dev @babel/core.
 
-<b>Como executar o código para rodar no navegador?</>
+<b>Como executar o código para rodar no navegador?</b>
 
 Com o terminal aberto na pasta do projeto digite o comando npm install e em seguida npm start . O primeiro só
 precisa ser executado uma vez, enquanto o segundo tem que ser executado todas as vezes que
