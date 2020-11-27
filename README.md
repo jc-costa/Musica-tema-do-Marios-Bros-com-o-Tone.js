@@ -17,8 +17,6 @@ momento é a 6.14.6.
 Com o npm instalado vamos criar a pasta onde o projeto ficará. Abra o terminal nessa pasta
 e digite o comando npm init, esse comando vai iniciar um projeto em node.
 
-anTONEo.js 2
-
 <b>Tone.js e dependências</b>
 
 Para instalar o Tone pelo terminal digite o comando npm install tone;
