@@ -1,0 +1,17 @@
+{
+  "name": "mario",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "anTONEo",
+  "main": "script.js",
+  "dependencies": {
+    "tone": "^14.7.58"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
